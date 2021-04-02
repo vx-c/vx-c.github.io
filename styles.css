@@ -1,6 +1,8 @@
 
 body {
-    background: url("media/background.jpg") 0% 0 no-repeat fixed;
+    background: url("media/background.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
     color: white;
     height: 650px;
     padding: 100px 0 0 0;   
